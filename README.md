@@ -1,6 +1,6 @@
 # Fraud Vision
 
-Credit Card Fraud Detection is a vital application in the financial sector aimed at identifying fraudulent transactions to protect both consumers and financial institutions. This project leverages the capabilities of Streamlit, a powerful open-source app framework, to build an interactive and intuitive web application that enables users to detect and analyze fraudulent credit card transactions in real-time.
+Fraud Vision is a vital application in the financial sector aimed at identifying fraudulent transactions to protect both consumers and financial institutions. This project leverages the capabilities of Streamlit, a powerful open-source app framework, to build an interactive and intuitive web application that enables users to detect and analyze fraudulent credit card transactions in real-time.
 
 User-Friendly Interface: The application provides an easy-to-navigate interface for users to upload datasets, view transaction details, and receive instant fraud detection results.
 Real-Time Analysis: Streamlit's dynamic nature allows for real-time data analysis and visualization, making it easier to identify fraudulent patterns and anomalies.
